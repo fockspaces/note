@@ -21,7 +21,7 @@ Tags: CSS, HTML, JavaScript
 
 (1) nav-bar
 
-建立<ul>後，在寬視窗改為flex-direction: row
+建立後，在寬視窗改為flex-direction: row
 
 在row模式下要用space-between來分隔左右兩個區塊
 
